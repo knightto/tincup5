@@ -1,0 +1,11 @@
+<%- include("partials/header", { title: "Import" }) %>
+
+<h1>Import Tournament</h1>
+<p><a href="/">Home</a></p>
+
+<form method="post" action="/t/<%= tournamentId %>/import">
+  <textarea name="payload" style="width:100%;height:400px" placeholder="Paste tournament JSON"></textarea>
+  <button type="submit">Import</button>
+</form>
+
+<%- include("partials/footer") %>

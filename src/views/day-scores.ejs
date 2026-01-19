@@ -1,0 +1,205 @@
+<%- include("partials/header", { title: "Day Scores" }) %>
+
+<h1><%= day.name %> Scores</h1>
+<p><a href="/t/<%= tournament.id %>/setup">Setup</a> | <a href="/t/<%= tournament.id %>/dashboard">Dashboard</a> | <a href="/t/<%= tournament.id %>/standings">Standings</a></p>
+
+<div class="card">
+  <h2>Course Info</h2>
+  <p>
+    <strong><%= day.course.name %></strong>
+    <% if (day.course.tee) { %> | Tee: <%= day.course.tee %> <% } %>
+    <% if (day.course.slope) { %> | Slope: <%= day.course.slope %> <% } %>
+    <% if (day.course.rating) { %> | Rating: <%= day.course.rating %> <% } %>
+    <% if (day.course.yardage) { %> | Yardage: <%= day.course.yardage %> <% } %>
+    <% if (day.course.parTotal) { %> | Par: <%= day.course.parTotal %> <% } %>
+  </p>
+</div>
+
+<form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/scores">
+  <h2>Front 9</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Player</th>
+        <% holesFront.forEach((hole) => { %>
+          <th><%= hole.holeNumber %></th>
+        <% }) %>
+      </tr>
+      <tr>
+        <th>Par</th>
+        <% holesFront.forEach((hole) => { %>
+          <th><%= hole.par %></th>
+        <% }) %>
+      </tr>
+      <tr>
+        <th>HCP</th>
+        <% holesFront.forEach((hole) => { %>
+          <th><%= hole.strokeIndex %></th>
+        <% }) %>
+      </tr>
+    </thead>
+    <tbody>
+      <% players.forEach((player) => { %>
+        <tr>
+          <td><%= player.name %></td>
+          <% holesFront.forEach((hole) => { %>
+            <td>
+              <input style="width:40px" name="front-<%= player.id %>-<%= hole.holeNumber %>" type="number" value="<%= scoreMap[player.id]?.front?.[hole.holeNumber] ?? '' %>" />
+            </td>
+          <% }) %>
+        </tr>
+      <% }) %>
+    </tbody>
+  </table>
+
+  <h2>Back 9</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Player</th>
+        <% holesBack.forEach((hole) => { %>
+          <th><%= hole.holeNumber %></th>
+        <% }) %>
+      </tr>
+      <tr>
+        <th>Par</th>
+        <% holesBack.forEach((hole) => { %>
+          <th><%= hole.par %></th>
+        <% }) %>
+      </tr>
+      <tr>
+        <th>HCP</th>
+        <% holesBack.forEach((hole) => { %>
+          <th><%= hole.strokeIndex %></th>
+        <% }) %>
+      </tr>
+    </thead>
+    <tbody>
+      <% players.forEach((player) => { %>
+        <tr>
+          <td><%= player.name %></td>
+          <% holesBack.forEach((hole) => { %>
+            <td>
+              <input style="width:40px" name="back-<%= player.id %>-<%= hole.holeNumber %>" type="number" value="<%= scoreMap[player.id]?.back?.[hole.holeNumber] ?? '' %>" />
+            </td>
+          <% }) %>
+        </tr>
+      <% }) %>
+    </tbody>
+  </table>
+
+  <button type="submit">Save Scores</button>
+</form>
+
+<div class="card">
+  <h2>Pairings</h2>
+  <% if (day.matchRounds.length === 0) { %>
+    <p>No match rounds configured.</p>
+  <% } %>
+  <% day.matchRounds.forEach((round) => { %>
+    <h3><%= round.label %> (<%= round.segmentType %>)</h3>
+    <% round.pairings.forEach((pairing) => { %>
+      <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/pairings">
+        <input type="hidden" name="pairingId" value="<%= pairing.id %>" />
+        <select name="playerAId">
+          <% players.forEach((player) => { %>
+            <option value="<%= player.id %>" <%= player.id === pairing.playerAId ? 'selected' : '' %>><%= player.name %></option>
+          <% }) %>
+        </select>
+        vs
+        <select name="playerBId">
+          <% players.forEach((player) => { %>
+            <option value="<%= player.id %>" <%= player.id === pairing.playerBId ? 'selected' : '' %>><%= player.name %></option>
+          <% }) %>
+        </select>
+        <button type="submit">Update</button>
+      </form>
+    <% }) %>
+  <% }) %>
+</div>
+
+<div class="card">
+  <h2>Match Results</h2>
+  <% matchResults.forEach((roundBlock) => { %>
+    <h3><%= roundBlock.round.label %></h3>
+    <% roundBlock.results.forEach((item) => { %>
+      <p>
+        <%= item.playerA.name %> vs <%= item.playerB.name %> :
+        <strong><%= item.result.outcome %></strong>
+        (A <%= item.result.pointsA %> / B <%= item.result.pointsB %>)
+      </p>
+    <% }) %>
+  <% }) %>
+</div>
+
+<div class="card">
+  <h2>Stroke Results</h2>
+  <% if (strokeResults.length === 0) { %>
+    <p>No stroke play for this day.</p>
+  <% } else { %>
+    <table>
+      <thead>
+        <tr><th>Player</th><th>Gross</th><th>Net</th><th>Rank</th><th>Points</th></tr>
+      </thead>
+      <tbody>
+        <% strokeResults.forEach((row) => { %>
+          <tr>
+            <td><%= players.find((p) => p.id === row.id)?.name %></td>
+            <td><%= row.gross18 %></td>
+            <td><%= row.net %></td>
+            <td><%= row.rank %></td>
+            <td><%= row.points %></td>
+          </tr>
+        <% }) %>
+      </tbody>
+    </table>
+  <% } %>
+</div>
+
+<div class="card">
+  <h2>Side Contests</h2>
+  <% if (day.sideContestConfigs.length === 0) { %>
+    <p>No side contests configured.</p>
+  <% } %>
+  <% day.sideContestConfigs.filter((c) => c.type !== 'SecretSnowman').forEach((config) => { %>
+    <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/side-contest">
+      <strong><%= config.type %></strong> (Hole <%= config.holeNumber %>)
+      <input type="hidden" name="type" value="<%= config.type %>" />
+      <select name="playerId">
+        <% players.forEach((player) => { %>
+          <option value="<%= player.id %>"><%= player.name %></option>
+        <% }) %>
+      </select>
+      <input name="measurement" type="number" step="0.1" placeholder="Measurement" />
+      <label><input type="checkbox" name="isManualWinnerOverride" /> Manual Winner Override</label>
+      <button type="submit">Save Winner</button>
+    </form>
+  <% }) %>
+  <h3>Recorded Results</h3>
+  <ul>
+    <% day.sideContestResults.forEach((result) => { %>
+      <li>
+        <%= result.type %> - <%= players.find((p) => p.id === result.playerId)?.name %> (<%= result.measurement ?? 0 %>)
+        <%= result.isManualWinnerOverride ? '[manual]' : '' %>
+      </li>
+    <% }) %>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Secret Snowman</h2>
+  <% if (day.secretSnowmanDraw) { %>
+    <p>Drawn: <%= players.find((p) => p.id === day.secretSnowmanDraw.playerId)?.name %> (Locked: <%= day.secretSnowmanDraw.isLocked ? 'Yes' : 'No' %>)</p>
+  <% } else { %>
+    <p>Not drawn yet.</p>
+  <% } %>
+  <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/secret-snowman/draw">
+    <button type="submit">Draw Secret Snowman</button>
+  </form>
+  <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/lock">
+    <input type="hidden" name="lock" value="<%= day.lockedAt ? 'false' : 'true' %>" />
+    <button type="submit"><%= day.lockedAt ? 'Unlock Day' : 'Lock Day' %></button>
+  </form>
+</div>
+
+<%- include("partials/footer") %>

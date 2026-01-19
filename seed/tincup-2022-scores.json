@@ -1,0 +1,10084 @@
+{
+  "scores": [
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 16,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 11,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 12,
+      "gross": 10
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 10,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 12,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 10,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 11,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 14,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 17,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 18,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 12,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 12,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 10,
+      "gross": 10
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 11,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 12,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 15,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 17,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 18,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 14,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 17,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 10,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 12,
+      "gross": 10
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 10,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 9,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 1,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 2,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 4,
+      "gross": 10
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 7,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 9,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 1,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 4,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 8,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 9,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 1,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 8,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 1,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 4,
+      "gross": 10
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 1,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 2,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 5,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 9,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 7,
+      "gross": 9
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 8,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 4,
+      "gross": 8
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 2,
+      "gross": 7
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 8,
+      "gross": 4
+    },
+    {
+      "day": "Day 1",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 14,
+      "gross": 2
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 13,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 15,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 16,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 14,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 11,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 12,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 16,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 17,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 10,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 13,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 14,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 14,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 15,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 16,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 14,
+      "gross": 2
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 14,
+      "gross": 2
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 13,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 14,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 15,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 18,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 2,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 8,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 2,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 3,
+      "gross": 2
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 8,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 4,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 8,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 2,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 5,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 6,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 1,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 4,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 5,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 8,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 5,
+      "gross": 2
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 8,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 2,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 8,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 2,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 1,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 2,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 3,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 4,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 5,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 6,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 7,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 8,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 9,
+      "gross": 10
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 2,
+      "gross": 9
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 9,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 2,
+      "gross": 7
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 1,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 2,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 4,
+      "gross": 8
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2A",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 10,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 15,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 16,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 12,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 14,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 10,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 14,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 10,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 13,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 15,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 12,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 16,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 12,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 13,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 14,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 18,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 10,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 11,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 12,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 13,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 14,
+      "gross": 10
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 16,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 10,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 14,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 17,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 14,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 16,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 11,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 10,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 18,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 10,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 17,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 2,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 3,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 4,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 5,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 8,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 1,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 4,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 6,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 9,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 5,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 3,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 8,
+      "gross": 10
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 8,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 5,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 9,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 7,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 8,
+      "gross": 10
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 1,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 3,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 8,
+      "gross": 8
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 2,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 4,
+      "gross": 9
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 9,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 9,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 9,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 6,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 9,
+      "gross": 3
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 7,
+      "gross": 4
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 2B",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 18,
+      "gross": 10
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 10,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 17,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 10,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 15,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 14,
+      "gross": 9
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 16,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 12,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 18,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 11,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 12,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 13,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 17,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 13,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 14,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 16,
+      "gross": 9
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 10,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 15,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 10,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 14,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 15,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 10,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 11,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 13,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 16,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 17,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 18,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 10,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 11,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 13,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 16,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 10,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 11,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 12,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 13,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 14,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 15,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 17,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 18,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 10,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 11,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 12,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 13,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 14,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 15,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 16,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 17,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 18,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 9,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 2,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 7,
+      "gross": 10
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 9,
+      "gross": 9
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 4,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 5,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 1,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 3,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 9,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 4,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 7,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 2,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 3,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 6,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 4,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 5,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 1,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 4,
+      "gross": 8
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 7,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 9,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 1,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 5,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 6,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 7,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 8,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 9,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 1,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 2,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 3,
+      "gross": 3
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 4,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 5,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 6,
+      "gross": 5
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 8,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 9,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 1,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 2,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 3,
+      "gross": 4
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 4,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 5,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 6,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 7,
+      "gross": 6
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 8,
+      "gross": 7
+    },
+    {
+      "day": "Day 3",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 9,
+      "gross": 9
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Bob",
+      "holeNumber": 18,
+      "gross": 45
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian P",
+      "holeNumber": 18,
+      "gross": 46
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Brian S",
+      "holeNumber": 18,
+      "gross": 57
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Chris",
+      "holeNumber": 18,
+      "gross": 63
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Dave",
+      "holeNumber": 18,
+      "gross": 43
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Gerald C",
+      "holeNumber": 18,
+      "gross": 54
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Hunter",
+      "holeNumber": 18,
+      "gross": 60
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "John",
+      "holeNumber": 18,
+      "gross": 43
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Keith",
+      "holeNumber": 18,
+      "gross": 58
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Manny",
+      "holeNumber": 18,
+      "gross": 58
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Mil",
+      "holeNumber": 18,
+      "gross": 48
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Pat",
+      "holeNumber": 18,
+      "gross": 43
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Patrick",
+      "holeNumber": 18,
+      "gross": 49
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Rick",
+      "holeNumber": 18,
+      "gross": 46
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tommy",
+      "holeNumber": 18,
+      "gross": 45
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 10,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 11,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 12,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 13,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 14,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 15,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 16,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 17,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "back9",
+      "player": "Tony W",
+      "holeNumber": 18,
+      "gross": 50
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Bob",
+      "holeNumber": 9,
+      "gross": 45
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian P",
+      "holeNumber": 9,
+      "gross": 42
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Brian S",
+      "holeNumber": 9,
+      "gross": 57
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Chris",
+      "holeNumber": 9,
+      "gross": 59
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Dave",
+      "holeNumber": 9,
+      "gross": 45
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Gerald C",
+      "holeNumber": 9,
+      "gross": 58
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Hunter",
+      "holeNumber": 9,
+      "gross": 60
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "John",
+      "holeNumber": 9,
+      "gross": 40
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Keith",
+      "holeNumber": 9,
+      "gross": 73
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Manny",
+      "holeNumber": 9,
+      "gross": 55
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Mil",
+      "holeNumber": 9,
+      "gross": 53
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Pat",
+      "holeNumber": 9,
+      "gross": 47
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Patrick",
+      "holeNumber": 9,
+      "gross": 54
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Rick",
+      "holeNumber": 9,
+      "gross": 48
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tommy",
+      "holeNumber": 9,
+      "gross": 42
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 1,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 2,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 3,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 4,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 5,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 6,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 7,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 8,
+      "gross": 0
+    },
+    {
+      "day": "Day 4",
+      "segment": "front9",
+      "player": "Tony W",
+      "holeNumber": 9,
+      "gross": 57
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<%- include("partials/header", { title: "Standings" }) %>
+
+<h1><%= tournament.name %> Standings</h1>
+<p>
+  <a href="/t/<%= tournament.id %>/dashboard">Dashboard</a> |
+  <a href="/t/<%= tournament.id %>/setup">Setup</a>
+</p>
+
+<div class="card">
+  <h2>Scorecards</h2>
+  <p>
+    <% days.forEach((day, index) => { %>
+      <a href="/t/<%= tournament.id %>/day/<%= day.id %>/scores"><%= day.name %></a><%= index < days.length - 1 ? ' | ' : '' %>
+    <% }) %>
+  </p>
+</div>
+
+<table class="scorecard-table">
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Player</th>
+      <% days.forEach((day) => { %>
+        <th><%= day.name %> Points</th>
+      <% }) %>
+      <th>Total Points</th>
+      <th>Total Cash</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% rows.forEach((row) => { %>
+      <tr>
+        <td><%= row.rank %></td>
+        <td><%= row.player.name %></td>
+        <% days.forEach((day) => { %>
+          <td><%= row.dayPoints[day.name] ?? 0 %></td>
+        <% }) %>
+        <td><%= row.totalPoints %></td>
+        <td>$<%= row.totalCash %></td>
+      </tr>
+    <% }) %>
+  </tbody>
+</table>
+
+<%- include("partials/footer") %>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title><%= title %></title>
+    <style>
+      :root {
+        --green-900: #0c2f1b;
+        --green-700: #164a2a;
+        --green-500: #2f6f3e;
+        --sand-100: #f7f1e1;
+        --sand-200: #efe2c4;
+        --sand-300: #d8c9a3;
+        --flag: #c43a2f;
+        --white: #ffffff;
+        --ink: #102018;
+      }
+
+      body {
+        font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+        margin: 24px;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 20% 0%, #2b6b3a 0%, #1f5530 35%, #163f24 60%, #0e2e1a 100%),
+          linear-gradient(135deg, rgba(255,255,255,0.08), rgba(255,255,255,0));
+      }
+
+      .page {
+        background: var(--sand-100);
+        border: 1px solid var(--sand-300);
+        border-radius: 16px;
+        padding: 20px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.25);
+        position: relative;
+        overflow: hidden;
+      }
+
+      .page::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background-image:
+          radial-gradient(circle at 8% 20%, rgba(255,255,255,0.35) 0 6px, transparent 7px),
+          radial-gradient(circle at 14% 22%, rgba(255,255,255,0.25) 0 5px, transparent 6px),
+          radial-gradient(circle at 12% 28%, rgba(255,255,255,0.25) 0 4px, transparent 5px),
+          radial-gradient(circle at 92% 16%, rgba(255,255,255,0.25) 0 6px, transparent 7px),
+          radial-gradient(circle at 88% 24%, rgba(255,255,255,0.18) 0 5px, transparent 6px),
+          linear-gradient(135deg, rgba(255,255,255,0.25), rgba(255,255,255,0));
+        opacity: 0.6;
+        pointer-events: none;
+      }
+
+      .page::after {
+        content: "";
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        right: -40px;
+        bottom: -40px;
+        background:
+          radial-gradient(circle at 35% 35%, rgba(255,255,255,0.9) 0 8px, transparent 9px),
+          radial-gradient(circle at 65% 35%, rgba(255,255,255,0.85) 0 8px, transparent 9px),
+          radial-gradient(circle at 35% 65%, rgba(255,255,255,0.85) 0 8px, transparent 9px),
+          radial-gradient(circle at 65% 65%, rgba(255,255,255,0.8) 0 8px, transparent 9px),
+          radial-gradient(circle at 50% 50%, rgba(255,255,255,0.9) 0 10px, transparent 11px),
+          radial-gradient(circle, rgba(255,255,255,0.35) 0 90px, transparent 91px);
+        opacity: 0.45;
+        pointer-events: none;
+      }
+
+      h1, h2 {
+        margin-bottom: 8px;
+        color: var(--green-900);
+        letter-spacing: 0.3px;
+        position: relative;
+        z-index: 1;
+      }
+
+      a {
+        color: var(--green-700);
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      a:hover {
+        color: var(--flag);
+      }
+
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 16px;
+        background: var(--white);
+      }
+
+      th, td {
+        border: 1px solid var(--sand-300);
+        padding: 8px 10px;
+        text-align: left;
+      }
+
+      th {
+        background: var(--green-700);
+        color: var(--white);
+      }
+
+      .players-table th, .players-table td {
+        text-align: center;
+      }
+
+      .scorecard-table th, .scorecard-table td {
+        text-align: center;
+      }
+
+      .days-table th, .days-table td {
+        text-align: center;
+        vertical-align: middle;
+      }
+
+      .days-table form {
+        display: inline-block;
+      }
+
+      input, select, button, textarea {
+        padding: 8px 10px;
+        margin-right: 8px;
+        border: 1px solid var(--sand-300);
+        border-radius: 10px;
+        background: var(--white);
+      }
+
+      button {
+        background: var(--green-700);
+        color: var(--white);
+        border: none;
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      button:hover {
+        background: var(--green-500);
+      }
+
+      .card {
+        background: var(--sand-200);
+        padding: 14px;
+        margin-bottom: 16px;
+        border: 1px solid var(--sand-300);
+        border-radius: 12px;
+        position: relative;
+        z-index: 1;
+      }
+
+      .row {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+      }
+
+      .row > div {
+        flex: 1;
+        min-width: 280px;
+      }
+
+      .badge {
+        display: inline-block;
+        padding: 4px 10px;
+        background: var(--green-900);
+        color: var(--white);
+        border-radius: 999px;
+        font-size: 12px;
+      }
+
+      .danger {
+        color: var(--flag);
+        font-weight: 600;
+      }
+
+      @media (max-width: 720px) {
+        body { margin: 12px; }
+        .page { padding: 14px; }
+        table { font-size: 12px; }
+        input, select, button { margin-bottom: 8px; width: 100%; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">

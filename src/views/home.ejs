@@ -1,0 +1,35 @@
+<%- include("partials/header", { title: "Tin Cup Tournaments" }) %>
+
+<h1>Tournaments</h1>
+
+<div class="card">
+  <form method="post" action="/tournaments">
+    <input name="name" placeholder="Tournament name" />
+    <button type="submit">Create</button>
+  </form>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% tournaments.forEach((t) => { %>
+      <tr>
+        <td><%= t.name %></td>
+        <td>
+          <a href="/t/<%= t.id %>/dashboard">Dashboard</a> |
+          <a href="/t/<%= t.id %>/setup">Setup</a>
+          | <form method="post" action="/tournaments/<%= t.id %>/delete" style="display:inline">
+              <button type="submit">Delete</button>
+            </form>
+        </td>
+      </tr>
+    <% }) %>
+  </tbody>
+</table>
+
+<%- include("partials/footer") %>

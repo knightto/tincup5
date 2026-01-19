@@ -1,0 +1,26 @@
+<%- include("partials/header", { title: "Dashboard" }) %>
+
+<div class="card" style="text-align:center">
+  <h1><%= tournament.name %> Dashboard</h1>
+  <p>
+    <a href="/t/<%= tournament.id %>/setup">Setup</a> |
+    <a href="/t/<%= tournament.id %>/standings">Standings</a> |
+    <a href="/t/<%= tournament.id %>/export">Export</a>
+  </p>
+</div>
+
+<table class="scorecard-table">
+  <thead>
+    <tr><th>Player</th><th>Total Points</th></tr>
+  </thead>
+  <tbody>
+    <% leaderboard.forEach((row) => { %>
+      <tr>
+        <td><%= row.player.name %></td>
+        <td><%= row.points %></td>
+      </tr>
+    <% }) %>
+  </tbody>
+</table>
+
+<%- include("partials/footer") %>

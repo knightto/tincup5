@@ -1,0 +1,31 @@
+{
+  "name": "tincup5",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "test": "vitest",
+    "prisma:migrate": "prisma db execute --file prisma/migrations/000_init/migration.sql",
+    "prisma:studio": "prisma studio",
+    "seed": "tsx src/seed/seed.ts",
+    "verify:seed": "tsx src/verify/verify-seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/ejs": "^3.1.5",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.10",
+    "prisma": "^5.22.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.3",
+    "vitest": "^1.6.0"
+  }
+}

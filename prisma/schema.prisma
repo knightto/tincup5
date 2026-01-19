@@ -1,0 +1,203 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Tournament {
+  id               String   @id @default(cuid())
+  name             String
+  handicapFactor   Float
+  handicapCap18    Float
+  par3Multiplier   Float
+  handicapCategories String
+  pointSchemes     String
+  payouts          String
+  createdAt        DateTime @default(now())
+  players          Player[]
+  courses          Course[]
+  days             Day[]
+  sideContestDefinitions SideContestDefinition[]
+}
+
+model Player {
+  id           String  @id @default(cuid())
+  tournamentId String
+  name         String
+  index        Float
+  categoryKey  String
+  tournament   Tournament @relation(fields: [tournamentId], references: [id])
+  dayScores    DaySegmentScore[]
+  matchPairingsA MatchPairing[] @relation("MatchPairingA")
+  matchPairingsB MatchPairing[] @relation("MatchPairingB")
+  scrambleTeams ScrambleTeamPlayer[]
+  sideContestResults SideContestResult[]
+  secretSnowmanDraws SecretSnowmanDraw[]
+}
+
+model Course {
+  id           String   @id @default(cuid())
+  tournamentId String
+  name         String
+  type         String?
+  tee          String?
+  yardage      Int?
+  slope        Int?
+  rating       Float?
+  parTotal     Int?
+  tournament   Tournament @relation(fields: [tournamentId], references: [id])
+  holes        Hole[]
+  days         Day[]
+}
+
+model Hole {
+  id          String   @id @default(cuid())
+  courseId    String
+  holeNumber  Int
+  par         Int
+  strokeIndex Int
+  segment     String
+  course      Course @relation(fields: [courseId], references: [id])
+
+  @@unique([courseId, holeNumber, segment])
+}
+
+model Day {
+  id             String   @id @default(cuid())
+  tournamentId   String
+  name           String
+  courseId       String
+  isMatchPlay    Boolean  @default(false)
+  strokePlayRule String   @default("none")
+  isScramble     Boolean  @default(false)
+  lockedAt       DateTime?
+  tournament     Tournament @relation(fields: [tournamentId], references: [id])
+  course         Course @relation(fields: [courseId], references: [id])
+  segmentScores  DaySegmentScore[]
+  matchRounds    MatchRound[]
+  sideContestConfigs DaySideContestConfig[]
+  sideContestResults SideContestResult[]
+  secretSnowmanDraw SecretSnowmanDraw?
+  secretSnowmanHistory SecretSnowmanDrawHistory[]
+  scrambleTeams  ScrambleTeam[]
+  scrambleScores ScrambleScore[]
+}
+
+model DaySegmentScore {
+  id          String   @id @default(cuid())
+  dayId       String
+  segmentType String
+  playerId    String
+  holeNumber  Int
+  gross       Int
+  day         Day @relation(fields: [dayId], references: [id])
+  player      Player @relation(fields: [playerId], references: [id])
+
+  @@unique([dayId, segmentType, playerId, holeNumber])
+}
+
+model MatchRound {
+  id          String   @id @default(cuid())
+  dayId       String
+  segmentType String
+  label       String
+  order       Int
+  day         Day @relation(fields: [dayId], references: [id])
+  pairings    MatchPairing[]
+}
+
+model MatchPairing {
+  id           String   @id @default(cuid())
+  matchRoundId String
+  playerAId    String
+  playerBId    String
+  matchRound   MatchRound @relation(fields: [matchRoundId], references: [id])
+  playerA      Player @relation("MatchPairingA", fields: [playerAId], references: [id])
+  playerB      Player @relation("MatchPairingB", fields: [playerBId], references: [id])
+}
+
+model SideContestDefinition {
+  id           String   @id @default(cuid())
+  tournamentId String
+  type         String
+  amount       Float
+  tournament   Tournament @relation(fields: [tournamentId], references: [id])
+
+  @@unique([tournamentId, type])
+}
+
+model DaySideContestConfig {
+  id         String   @id @default(cuid())
+  dayId      String
+  type       String
+  holeNumber Int
+  day        Day @relation(fields: [dayId], references: [id])
+
+  @@unique([dayId, type])
+}
+
+model SideContestResult {
+  id          String   @id @default(cuid())
+  dayId       String
+  type        String
+  playerId    String
+  measurement Float?
+  isManualWinnerOverride Boolean @default(false)
+  day         Day @relation(fields: [dayId], references: [id])
+  player      Player @relation(fields: [playerId], references: [id])
+}
+
+model SecretSnowmanDraw {
+  id        String   @id @default(cuid())
+  dayId     String   @unique
+  playerId  String
+  seed      String
+  drawnAt   DateTime
+  isLocked  Boolean  @default(false)
+  day       Day @relation(fields: [dayId], references: [id])
+  player    Player @relation(fields: [playerId], references: [id])
+}
+
+model SecretSnowmanDrawHistory {
+  id        String   @id @default(cuid())
+  dayId     String
+  previousPlayerId String
+  newPlayerId String
+  seed      String
+  drawnAt   DateTime
+  day       Day @relation(fields: [dayId], references: [id])
+}
+
+model ScrambleTeam {
+  id        String   @id @default(cuid())
+  dayId     String
+  name      String
+  day       Day @relation(fields: [dayId], references: [id])
+  players   ScrambleTeamPlayer[]
+  scores    ScrambleScore[]
+}
+
+model ScrambleTeamPlayer {
+  id        String   @id @default(cuid())
+  teamId    String
+  playerId  String
+  team      ScrambleTeam @relation(fields: [teamId], references: [id])
+  player    Player @relation(fields: [playerId], references: [id])
+
+  @@unique([teamId, playerId])
+}
+
+model ScrambleScore {
+  id        String   @id @default(cuid())
+  dayId     String
+  teamId    String
+  total     Int
+  perHole   String?
+  day       Day @relation(fields: [dayId], references: [id])
+  team      ScrambleTeam @relation(fields: [teamId], references: [id])
+
+  @@unique([dayId, teamId])
+}

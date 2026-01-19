@@ -1,0 +1,2189 @@
+{
+  "tournament": {
+    "name": "Tin Cup XX",
+    "year": 2022,
+    "buyInPerPlayer": 100,
+    "handicap": {
+      "avgSlope": 124.6,
+      "factor": 0.1026548672566372,
+      "cap18": 32,
+      "adjustments": [
+        {
+          "name": "Lifetime",
+          "type": "flat",
+          "value": -1
+        },
+        {
+          "name": "Rookie",
+          "type": "multiplier",
+          "value": -0.2
+        },
+        {
+          "name": "Champ",
+          "type": "flat",
+          "value": -3
+        },
+        {
+          "name": "Double Deuce",
+          "type": "multiplier",
+          "value": -0.15
+        },
+        {
+          "name": "2X Champ",
+          "type": "flat",
+          "value": -4
+        },
+        {
+          "name": "3X Champ",
+          "type": "flat",
+          "value": -5
+        }
+      ],
+      "par3Multiplier": 0.375
+    },
+    "points": {
+      "matchPlay": {
+        "win": 2,
+        "tie": 1,
+        "loss": 0
+      },
+      "strokePlayFull": {
+        "1": 12,
+        "2": 10,
+        "3": 8.5,
+        "4": 7.25,
+        "5": 6,
+        "6": 5,
+        "7": 4,
+        "8": 3,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0
+      },
+      "scramble": {
+        "1": 3,
+        "2": 2,
+        "3": 1,
+        "4": 0
+      },
+      "strokePlayTop8Fixed": {
+        "topN": 8,
+        "points": 2
+      }
+    },
+    "payouts": {
+      "overall": {
+        "Winner": 700,
+        "2nd": 350,
+        "3rd": 150
+      },
+      "sideContests": {
+        "Long Drive": 20,
+        "Closest to Pin": 20,
+        "Long Putt": 20,
+        "Secret Snowman": 20
+      },
+      "notes": [
+        "Workbook shows a second 'Closest to Pin' label with blank amount; ignore it (app uses a single CTP)."
+      ]
+    }
+  },
+  "players": [
+    {
+      "name": "Mil",
+      "index": 13.5,
+      "adjustmentCategory": "Champ",
+      "penaltyApplied": -3,
+      "hc9_raw": 5.942920353982301,
+      "hc18_raw": 11.885840707964602,
+      "hc9": 6,
+      "hc18": 12,
+      "hcPar3": 4,
+      "paid": 100
+    },
+    {
+      "name": "John",
+      "index": 12.6,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 6.946725663716814,
+      "hc18_raw": 13.893451327433628,
+      "hc9": 7,
+      "hc18": 14,
+      "hcPar3": 5,
+      "paid": 100
+    },
+    {
+      "name": "Brian P",
+      "index": 13.5,
+      "adjustmentCategory": "Rookie",
+      "penaltyApplied": -2.9771681415929208,
+      "hc9_raw": 5.954336283185841,
+      "hc18_raw": 11.908672566371681,
+      "hc9": 6,
+      "hc18": 12,
+      "hcPar3": 4,
+      "paid": 100
+    },
+    {
+      "name": "Pat",
+      "index": 11.7,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 6.450530973451327,
+      "hc18_raw": 12.901061946902654,
+      "hc9": 6,
+      "hc18": 13,
+      "hcPar3": 5,
+      "paid": 100
+    },
+    {
+      "name": "Rick",
+      "index": 13.5,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 7.442920353982301,
+      "hc18_raw": 14.885840707964602,
+      "hc9": 7,
+      "hc18": 15,
+      "hcPar3": 6,
+      "paid": 100
+    },
+    {
+      "name": "Keith",
+      "index": 29.8,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 16,
+      "hc18_raw": 32,
+      "hc9": 16,
+      "hc18": 32,
+      "hcPar3": 12,
+      "paid": 100
+    },
+    {
+      "name": "Tony W",
+      "index": 22.1,
+      "adjustmentCategory": "Rookie",
+      "penaltyApplied": -4.873734513274337,
+      "hc9_raw": 9.747469026548673,
+      "hc18_raw": 19.494938053097346,
+      "hc9": 10,
+      "hc18": 19,
+      "hcPar3": 7,
+      "paid": 100
+    },
+    {
+      "name": "Manny",
+      "index": 25.2,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 13.893451327433628,
+      "hc18_raw": 27.786902654867255,
+      "hc9": 14,
+      "hc18": 28,
+      "hcPar3": 10,
+      "paid": 100
+    },
+    {
+      "name": "Tommy",
+      "index": 9.4,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 5.182477876106195,
+      "hc18_raw": 10.36495575221239,
+      "hc9": 5,
+      "hc18": 10,
+      "hcPar3": 4,
+      "paid": 100
+    },
+    {
+      "name": "Dave",
+      "index": 8.8,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 4.851681415929204,
+      "hc18_raw": 9.703362831858408,
+      "hc9": 5,
+      "hc18": 10,
+      "hcPar3": 4,
+      "paid": 100
+    },
+    {
+      "name": "Hunter",
+      "index": 13.4,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 7.387787610619469,
+      "hc18_raw": 14.775575221238938,
+      "hc9": 7,
+      "hc18": 15,
+      "hcPar3": 6,
+      "paid": 100
+    },
+    {
+      "name": "Gerald C",
+      "index": 27.6,
+      "adjustmentCategory": "Rookie",
+      "penaltyApplied": -6.086654867256637,
+      "hc9_raw": 12.173309734513275,
+      "hc18_raw": 24.34661946902655,
+      "hc9": 12,
+      "hc18": 24,
+      "hcPar3": 9,
+      "paid": 100
+    },
+    {
+      "name": "Bob",
+      "index": 18.1,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 9.979026548672568,
+      "hc18_raw": 19.958053097345136,
+      "hc9": 10,
+      "hc18": 20,
+      "hcPar3": 7,
+      "paid": 100
+    },
+    {
+      "name": "Patrick",
+      "index": 17.5,
+      "adjustmentCategory": "Rookie",
+      "penaltyApplied": -3.85929203539823,
+      "hc9_raw": 7.71858407079646,
+      "hc18_raw": 15.43716814159292,
+      "hc9": 8,
+      "hc18": 15,
+      "hcPar3": 6,
+      "paid": 100
+    },
+    {
+      "name": "Brian S",
+      "index": 23.7,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 13.06646017699115,
+      "hc18_raw": 26.1329203539823,
+      "hc9": 13,
+      "hc18": 26,
+      "hcPar3": 10,
+      "paid": 100
+    },
+    {
+      "name": "Chris",
+      "index": 27.1,
+      "adjustmentCategory": null,
+      "penaltyApplied": 0,
+      "hc9_raw": 14.940973451327435,
+      "hc18_raw": 29.88194690265487,
+      "hc9": 15,
+      "hc18": 30,
+      "hcPar3": 11,
+      "paid": 100
+    }
+  ],
+  "courses": [
+    {
+      "name": "Eagle Mountain",
+      "type": "18",
+      "tee": "Green",
+      "yardage": 6269,
+      "slope": 127,
+      "par_total": 71,
+      "holes": [
+        {
+          "n": 1,
+          "par": 5,
+          "si": 11
+        },
+        {
+          "n": 2,
+          "par": 4,
+          "si": 5
+        },
+        {
+          "n": 3,
+          "par": 3,
+          "si": 9
+        },
+        {
+          "n": 4,
+          "par": 5,
+          "si": 13
+        },
+        {
+          "n": 5,
+          "par": 3,
+          "si": 15
+        },
+        {
+          "n": 6,
+          "par": 4,
+          "si": 7
+        },
+        {
+          "n": 7,
+          "par": 4,
+          "si": 1
+        },
+        {
+          "n": 8,
+          "par": 3,
+          "si": 17
+        },
+        {
+          "n": 9,
+          "par": 4,
+          "si": 3
+        },
+        {
+          "n": 10,
+          "par": 5,
+          "si": 12
+        },
+        {
+          "n": 11,
+          "par": 4,
+          "si": 4
+        },
+        {
+          "n": 12,
+          "par": 5,
+          "si": 14
+        },
+        {
+          "n": 13,
+          "par": 3,
+          "si": 10
+        },
+        {
+          "n": 14,
+          "par": 4,
+          "si": 2
+        },
+        {
+          "n": 15,
+          "par": 3,
+          "si": 18
+        },
+        {
+          "n": 16,
+          "par": 4,
+          "si": 8
+        },
+        {
+          "n": 17,
+          "par": 4,
+          "si": 6
+        },
+        {
+          "n": 18,
+          "par": 4,
+          "si": 16
+        }
+      ]
+    },
+    {
+      "name": "Wekopa Cholla",
+      "type": "18",
+      "tee": "White",
+      "yardage": 6114,
+      "slope": 119,
+      "par_total": 72,
+      "holes": [
+        {
+          "n": 1,
+          "par": 4,
+          "si": 13
+        },
+        {
+          "n": 2,
+          "par": 5,
+          "si": 3
+        },
+        {
+          "n": 3,
+          "par": 3,
+          "si": 17
+        },
+        {
+          "n": 4,
+          "par": 4,
+          "si": 9
+        },
+        {
+          "n": 5,
+          "par": 3,
+          "si": 15
+        },
+        {
+          "n": 6,
+          "par": 4,
+          "si": 7
+        },
+        {
+          "n": 7,
+          "par": 4,
+          "si": 11
+        },
+        {
+          "n": 8,
+          "par": 5,
+          "si": 1
+        },
+        {
+          "n": 9,
+          "par": 4,
+          "si": 5
+        },
+        {
+          "n": 10,
+          "par": 5,
+          "si": 4
+        },
+        {
+          "n": 11,
+          "par": 3,
+          "si": 16
+        },
+        {
+          "n": 12,
+          "par": 4,
+          "si": 10
+        },
+        {
+          "n": 13,
+          "par": 4,
+          "si": 12
+        },
+        {
+          "n": 14,
+          "par": 3,
+          "si": 18
+        },
+        {
+          "n": 15,
+          "par": 4,
+          "si": 14
+        },
+        {
+          "n": 16,
+          "par": 4,
+          "si": 6
+        },
+        {
+          "n": 17,
+          "par": 5,
+          "si": 2
+        },
+        {
+          "n": 18,
+          "par": 4,
+          "si": 8
+        }
+      ]
+    },
+    {
+      "name": "Wekopa Saguaro",
+      "type": "18",
+      "tee": "White",
+      "yardage": 6252,
+      "slope": 125,
+      "par_total": 71,
+      "holes": [
+        {
+          "n": 1,
+          "par": 4,
+          "si": 5
+        },
+        {
+          "n": 2,
+          "par": 4,
+          "si": 11
+        },
+        {
+          "n": 3,
+          "par": 4,
+          "si": 9
+        },
+        {
+          "n": 4,
+          "par": 5,
+          "si": 1
+        },
+        {
+          "n": 5,
+          "par": 3,
+          "si": 15
+        },
+        {
+          "n": 6,
+          "par": 4,
+          "si": 7
+        },
+        {
+          "n": 7,
+          "par": 4,
+          "si": 13
+        },
+        {
+          "n": 8,
+          "par": 5,
+          "si": 3
+        },
+        {
+          "n": 9,
+          "par": 3,
+          "si": 9
+        },
+        {
+          "n": 10,
+          "par": 4,
+          "si": 8
+        },
+        {
+          "n": 11,
+          "par": 3,
+          "si": 14
+        },
+        {
+          "n": 12,
+          "par": 4,
+          "si": 2
+        },
+        {
+          "n": 13,
+          "par": 4,
+          "si": 6
+        },
+        {
+          "n": 14,
+          "par": 5,
+          "si": 12
+        },
+        {
+          "n": 15,
+          "par": 3,
+          "si": 18
+        },
+        {
+          "n": 16,
+          "par": 4,
+          "si": 16
+        },
+        {
+          "n": 17,
+          "par": 4,
+          "si": 4
+        },
+        {
+          "n": 18,
+          "par": 4,
+          "si": 10
+        }
+      ]
+    },
+    {
+      "name": "Kierland A/M",
+      "type": "18",
+      "tee": "Copper",
+      "yardage": 6319,
+      "slope": 123,
+      "par_total": 72,
+      "holes": [
+        {
+          "n": 1,
+          "par": 4,
+          "si": 1
+        },
+        {
+          "n": 2,
+          "par": 4,
+          "si": 5
+        },
+        {
+          "n": 3,
+          "par": 3,
+          "si": 17
+        },
+        {
+          "n": 4,
+          "par": 4,
+          "si": 7
+        },
+        {
+          "n": 5,
+          "par": 3,
+          "si": 13
+        },
+        {
+          "n": 6,
+          "par": 4,
+          "si": 11
+        },
+        {
+          "n": 7,
+          "par": 5,
+          "si": 15
+        },
+        {
+          "n": 8,
+          "par": 4,
+          "si": 9
+        },
+        {
+          "n": 9,
+          "par": 5,
+          "si": 3
+        },
+        {
+          "n": 10,
+          "par": 5,
+          "si": 16
+        },
+        {
+          "n": 11,
+          "par": 4,
+          "si": 8
+        },
+        {
+          "n": 12,
+          "par": 4,
+          "si": 4
+        },
+        {
+          "n": 13,
+          "par": 3,
+          "si": 18
+        },
+        {
+          "n": 14,
+          "par": 5,
+          "si": 2
+        },
+        {
+          "n": 15,
+          "par": 3,
+          "si": 12
+        },
+        {
+          "n": 16,
+          "par": 4,
+          "si": 10
+        },
+        {
+          "n": 17,
+          "par": 3,
+          "si": 14
+        },
+        {
+          "n": 18,
+          "par": 5,
+          "si": 6
+        }
+      ]
+    },
+    {
+      "name": "Troon N MNMT",
+      "type": "18",
+      "tee": "Silver",
+      "yardage": 6220,
+      "slope": 129,
+      "par_total": 72,
+      "holes": [
+        {
+          "n": 1,
+          "par": 4,
+          "si": 5
+        },
+        {
+          "n": 2,
+          "par": 3,
+          "si": 17
+        },
+        {
+          "n": 3,
+          "par": 5,
+          "si": 3
+        },
+        {
+          "n": 4,
+          "par": 4,
+          "si": 11
+        },
+        {
+          "n": 5,
+          "par": 4,
+          "si": 1
+        },
+        {
+          "n": 6,
+          "par": 4,
+          "si": 13
+        },
+        {
+          "n": 7,
+          "par": 3,
+          "si": 15
+        },
+        {
+          "n": 8,
+          "par": 4,
+          "si": 9
+        },
+        {
+          "n": 9,
+          "par": 5,
+          "si": 7
+        },
+        {
+          "n": 10,
+          "par": 4,
+          "si": 10
+        },
+        {
+          "n": 11,
+          "par": 5,
+          "si": 6
+        },
+        {
+          "n": 12,
+          "par": 4,
+          "si": 8
+        },
+        {
+          "n": 13,
+          "par": 3,
+          "si": 18
+        },
+        {
+          "n": 14,
+          "par": 5,
+          "si": 4
+        },
+        {
+          "n": 15,
+          "par": 4,
+          "si": 14
+        },
+        {
+          "n": 16,
+          "par": 3,
+          "si": 16
+        },
+        {
+          "n": 17,
+          "par": 4,
+          "si": 2
+        },
+        {
+          "n": 18,
+          "par": 4,
+          "si": 12
+        }
+      ]
+    },
+    {
+      "name": "Kierland Par 3",
+      "type": "par3-9",
+      "par_total": 27,
+      "holes": [
+        {
+          "n": 1,
+          "par": 3,
+          "si": 7
+        },
+        {
+          "n": 2,
+          "par": 3,
+          "si": 4
+        },
+        {
+          "n": 3,
+          "par": 3,
+          "si": 1
+        },
+        {
+          "n": 4,
+          "par": 3,
+          "si": 9
+        },
+        {
+          "n": 5,
+          "par": 3,
+          "si": 3
+        },
+        {
+          "n": 6,
+          "par": 3,
+          "si": 5
+        },
+        {
+          "n": 7,
+          "par": 3,
+          "si": 6
+        },
+        {
+          "n": 8,
+          "par": 3,
+          "si": 8
+        },
+        {
+          "n": 9,
+          "par": 3,
+          "si": 2
+        }
+      ]
+    }
+  ],
+  "sideContestHolesByCourse": {
+    "Eagle Mountain": {
+      "longDriveHole": 10,
+      "ctpHole": 13,
+      "longPuttHole": 18
+    },
+    "Wekopa Cholla": {
+      "longDriveHole": 10,
+      "ctpHole": 5,
+      "longPuttHole": 18
+    },
+    "Wekopa Saguaro": {
+      "longDriveHole": 4,
+      "ctpHole": 9,
+      "longPuttHole": 18
+    },
+    "Kierland A/M": {
+      "longDriveHole": 9,
+      "ctpHole": 13,
+      "longPuttHole": 18
+    },
+    "Troon N MNMT": {
+      "longDriveHole": 11,
+      "ctpHole": 13,
+      "longPuttHole": 18
+    }
+  },
+  "scheduleByCourse": {
+    "Eagle Mountain": {
+      "Front 9": [
+        {
+          "a": "Mil",
+          "b": "John"
+        },
+        {
+          "a": "Brian P",
+          "b": "Pat"
+        },
+        {
+          "a": "Rick",
+          "b": "Keith"
+        },
+        {
+          "a": "Tony W",
+          "b": "Manny"
+        },
+        {
+          "a": "Tommy",
+          "b": "Dave"
+        },
+        {
+          "a": "Hunter",
+          "b": "Gerald C"
+        },
+        {
+          "a": "Bob",
+          "b": "Patrick"
+        },
+        {
+          "a": "Brian S",
+          "b": "Chris"
+        }
+      ],
+      "Back 9": [
+        {
+          "a": "Mil",
+          "b": "Brian P"
+        },
+        {
+          "a": "John",
+          "b": "Pat"
+        },
+        {
+          "a": "Rick",
+          "b": "Tony W"
+        },
+        {
+          "a": "Keith",
+          "b": "Manny"
+        },
+        {
+          "a": "Tommy",
+          "b": "Hunter"
+        },
+        {
+          "a": "Dave",
+          "b": "Gerald C"
+        },
+        {
+          "a": "Bob",
+          "b": "Brian S"
+        },
+        {
+          "a": "Patrick",
+          "b": "Chris"
+        }
+      ],
+      "Back 9 #2": [
+        {
+          "a": "Mil",
+          "b": "Pat"
+        },
+        {
+          "a": "John",
+          "b": "Brian P"
+        },
+        {
+          "a": "Rick",
+          "b": "Manny"
+        },
+        {
+          "a": "Keith",
+          "b": "Tony W"
+        },
+        {
+          "a": "Tommy",
+          "b": "Gerald C"
+        },
+        {
+          "a": "Dave",
+          "b": "Hunter"
+        },
+        {
+          "a": "Bob",
+          "b": "Chris"
+        },
+        {
+          "a": "Patrick",
+          "b": "Brian S"
+        }
+      ]
+    },
+    "Wekopa Cholla": {
+      "Front 9": [
+        {
+          "a": "Rick",
+          "b": "Mil"
+        },
+        {
+          "a": "Tommy",
+          "b": "Bob"
+        },
+        {
+          "a": "Dave",
+          "b": "Keith"
+        },
+        {
+          "a": "John",
+          "b": "Patrick"
+        },
+        {
+          "a": "Brian P",
+          "b": "Hunter"
+        },
+        {
+          "a": "Brian S",
+          "b": "Tony W"
+        },
+        {
+          "a": "Pat",
+          "b": "Chris"
+        },
+        {
+          "a": "Gerald C",
+          "b": "Manny"
+        }
+      ],
+      "Back 9": [
+        {
+          "a": "Rick",
+          "b": "Tommy"
+        },
+        {
+          "a": "Mil",
+          "b": "Bob"
+        },
+        {
+          "a": "Dave",
+          "b": "John"
+        },
+        {
+          "a": "Keith",
+          "b": "Patrick"
+        },
+        {
+          "a": "Brian P",
+          "b": "Brian S"
+        },
+        {
+          "a": "Hunter",
+          "b": "Tony W"
+        },
+        {
+          "a": "Pat",
+          "b": "Gerald C"
+        },
+        {
+          "a": "Chris",
+          "b": "Manny"
+        }
+      ],
+      "Back 9 #2": [
+        {
+          "a": "Rick",
+          "b": "Bob"
+        },
+        {
+          "a": "Mil",
+          "b": "Tommy"
+        },
+        {
+          "a": "Dave",
+          "b": "Patrick"
+        },
+        {
+          "a": "Keith",
+          "b": "John"
+        },
+        {
+          "a": "Brian P",
+          "b": "Tony W"
+        },
+        {
+          "a": "Hunter",
+          "b": "Brian S"
+        },
+        {
+          "a": "Pat",
+          "b": "Manny"
+        },
+        {
+          "a": "Chris",
+          "b": "Gerald C"
+        }
+      ]
+    },
+    "Wekopa Saguaro": {
+      "Front 9": [
+        {
+          "a": "John",
+          "b": "Rick"
+        },
+        {
+          "a": "Hunter",
+          "b": "Chris"
+        },
+        {
+          "a": "Bob",
+          "b": "Dave"
+        },
+        {
+          "a": "Brian P",
+          "b": "Manny"
+        },
+        {
+          "a": "Pat",
+          "b": "Tony W"
+        },
+        {
+          "a": "Tommy",
+          "b": "Patrick"
+        },
+        {
+          "a": "Mil",
+          "b": "Brian S"
+        },
+        {
+          "a": "Keith",
+          "b": "Gerald C"
+        }
+      ],
+      "Back 9": [
+        {
+          "a": "John",
+          "b": "Hunter"
+        },
+        {
+          "a": "Rick",
+          "b": "Chris"
+        },
+        {
+          "a": "Bob",
+          "b": "Brian P"
+        },
+        {
+          "a": "Dave",
+          "b": "Manny"
+        },
+        {
+          "a": "Pat",
+          "b": "Tommy"
+        },
+        {
+          "a": "Tony W",
+          "b": "Patrick"
+        },
+        {
+          "a": "Mil",
+          "b": "Keith"
+        },
+        {
+          "a": "Brian S",
+          "b": "Gerald C"
+        }
+      ],
+      "Back 9 #2": [
+        {
+          "a": "John",
+          "b": "Chris"
+        },
+        {
+          "a": "Rick",
+          "b": "Hunter"
+        },
+        {
+          "a": "Bob",
+          "b": "Manny"
+        },
+        {
+          "a": "Dave",
+          "b": "Brian P"
+        },
+        {
+          "a": "Pat",
+          "b": "Patrick"
+        },
+        {
+          "a": "Tony W",
+          "b": "Tommy"
+        },
+        {
+          "a": "Mil",
+          "b": "Gerald C"
+        },
+        {
+          "a": "Brian S",
+          "b": "Keith"
+        }
+      ]
+    },
+    "Kierland A/M": {
+      "Front 9": [
+        {
+          "a": "Dave",
+          "b": "Rick"
+        },
+        {
+          "a": "Brian S",
+          "b": "Pat"
+        },
+        {
+          "a": "Mil",
+          "b": "Hunter"
+        },
+        {
+          "a": "Patrick",
+          "b": "Manny"
+        },
+        {
+          "a": "Keith",
+          "b": "Chris"
+        },
+        {
+          "a": "Brian P",
+          "b": "Tommy"
+        },
+        {
+          "a": "Gerald C",
+          "b": "John"
+        },
+        {
+          "a": "Tony W",
+          "b": "Bob"
+        }
+      ],
+      "Back 9": [
+        {
+          "a": "Dave",
+          "b": "Brian S"
+        },
+        {
+          "a": "Rick",
+          "b": "Pat"
+        },
+        {
+          "a": "Mil",
+          "b": "Patrick"
+        },
+        {
+          "a": "Hunter",
+          "b": "Manny"
+        },
+        {
+          "a": "Keith",
+          "b": "Brian P"
+        },
+        {
+          "a": "Chris",
+          "b": "Tommy"
+        },
+        {
+          "a": "Gerald C",
+          "b": "Tony W"
+        },
+        {
+          "a": "John",
+          "b": "Bob"
+        }
+      ],
+      "Back 9 #2": [
+        {
+          "a": "Dave",
+          "b": "Pat"
+        },
+        {
+          "a": "Rick",
+          "b": "Brian S"
+        },
+        {
+          "a": "Mil",
+          "b": "Manny"
+        },
+        {
+          "a": "Hunter",
+          "b": "Patrick"
+        },
+        {
+          "a": "Keith",
+          "b": "Tommy"
+        },
+        {
+          "a": "Chris",
+          "b": "Brian P"
+        },
+        {
+          "a": "Gerald C",
+          "b": "Bob"
+        },
+        {
+          "a": "John",
+          "b": "Tony W"
+        }
+      ]
+    }
+  },
+  "days": [
+    {
+      "id": "day1",
+      "name": "Day 1",
+      "course": "Eagle Mountain",
+      "segments": [
+        "front9",
+        "back9"
+      ],
+      "matchRounds": [
+        {
+          "id": "d1_front",
+          "segment": "front9",
+          "label": "Front 9"
+        },
+        {
+          "id": "d1_backA",
+          "segment": "back9",
+          "label": "Back 9"
+        },
+        {
+          "id": "d1_backB",
+          "segment": "back9",
+          "label": "Back 9 #2"
+        }
+      ],
+      "strokePlayRule": "top8_fixed2"
+    },
+    {
+      "id": "day2a",
+      "name": "Day 2A",
+      "course": "Wekopa Cholla",
+      "segments": [
+        "front9",
+        "back9"
+      ],
+      "matchRounds": [
+        {
+          "id": "d2a_front",
+          "segment": "front9",
+          "label": "Front 9"
+        },
+        {
+          "id": "d2a_backA",
+          "segment": "back9",
+          "label": "Back 9"
+        },
+        {
+          "id": "d2a_backB",
+          "segment": "back9",
+          "label": "Back 9 #2"
+        }
+      ],
+      "strokePlayRule": "none"
+    },
+    {
+      "id": "day2b",
+      "name": "Day 2B",
+      "course": "Wekopa Saguaro",
+      "segments": [
+        "front9",
+        "back9"
+      ],
+      "matchRounds": [
+        {
+          "id": "d2b_front",
+          "segment": "front9",
+          "label": "Front 9"
+        },
+        {
+          "id": "d2b_backA",
+          "segment": "back9",
+          "label": "Back 9"
+        },
+        {
+          "id": "d2b_backB",
+          "segment": "back9",
+          "label": "Back 9 #2"
+        }
+      ],
+      "strokePlayRule": "none"
+    },
+    {
+      "id": "day3",
+      "name": "Day 3",
+      "course": "Kierland A/M",
+      "segments": [
+        "front9",
+        "back9"
+      ],
+      "matchRounds": [
+        {
+          "id": "d3_front",
+          "segment": "front9",
+          "label": "Front 9"
+        },
+        {
+          "id": "d3_backA",
+          "segment": "back9",
+          "label": "Back 9"
+        },
+        {
+          "id": "d3_backB",
+          "segment": "back9",
+          "label": "Back 9 #2"
+        }
+      ],
+      "strokePlayRule": "top8_fixed2",
+      "scramble": {
+        "course": "Kierland Par 3",
+        "teams": [
+          {
+            "team": 1,
+            "players": [
+              "Gerald C",
+              "Rick",
+              "Patrick",
+              "Brian P"
+            ],
+            "total": 23,
+            "rank": 1
+          },
+          {
+            "team": 2,
+            "players": [
+              "Pat",
+              "Hunter",
+              "Bob",
+              "Keith"
+            ],
+            "total": 24,
+            "rank": 2
+          },
+          {
+            "team": 3,
+            "players": [
+              "John",
+              "Manny",
+              "Brian S",
+              "Tommy"
+            ],
+            "total": 25,
+            "rank": 3
+          },
+          {
+            "team": 4,
+            "players": [
+              "Mil",
+              "Dave",
+              "Tony W",
+              "Chris"
+            ],
+            "total": 26,
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": "day4",
+      "name": "Day 4",
+      "course": "Troon N MNMT",
+      "segments": [
+        "front9",
+        "back9"
+      ],
+      "matchRounds": [],
+      "strokePlayRule": "fullScale"
+    }
+  ],
+  "golden": {
+    "pointsByPlayer": {
+      "Mil": {
+        "day1": 4,
+        "day2": 6,
+        "day3": 5,
+        "day4": 0
+      },
+      "John": {
+        "day1": 7,
+        "day2": 7,
+        "day3": 9,
+        "day4": 12
+      },
+      "Brian P": {
+        "day1": 2,
+        "day2": 10,
+        "day3": 9,
+        "day4": 8.5
+      },
+      "Pat": {
+        "day1": 5,
+        "day2": 7,
+        "day3": 5,
+        "day4": 6.625
+      },
+      "Rick": {
+        "day1": 6,
+        "day2": 6,
+        "day3": 9,
+        "day4": 4
+      },
+      "Keith": {
+        "day1": 8,
+        "day2": 2,
+        "day3": 6,
+        "day4": 0
+      },
+      "Tony W": {
+        "day1": 0,
+        "day2": 3,
+        "day3": 0,
+        "day4": 0
+      },
+      "Manny": {
+        "day1": 2,
+        "day2": 5,
+        "day3": 1,
+        "day4": 3
+      },
+      "Tommy": {
+        "day1": 8,
+        "day2": 11,
+        "day3": 7,
+        "day4": 6.625
+      },
+      "Dave": {
+        "day1": 6,
+        "day2": 7,
+        "day3": 1,
+        "day4": 5
+      },
+      "Hunter": {
+        "day1": 2,
+        "day2": 9,
+        "day3": 9,
+        "day4": 0
+      },
+      "Gerald C": {
+        "day1": 0,
+        "day2": 2,
+        "day3": 7,
+        "day4": 0
+      },
+      "Bob": {
+        "day1": 6,
+        "day2": 8,
+        "day3": 4,
+        "day4": 10
+      },
+      "Patrick": {
+        "day1": 0,
+        "day2": 2,
+        "day3": 5,
+        "day4": 0
+      },
+      "Brian S": {
+        "day1": 6,
+        "day2": 5,
+        "day3": 7,
+        "day4": 0
+      },
+      "Chris": {
+        "day1": 2,
+        "day2": 6,
+        "day3": 4,
+        "day4": 0
+      }
+    },
+    "detailPointsByPlayer": {
+      "Mil": {
+        "d1_match1": 1,
+        "d1_match2": 0,
+        "d1_match3": 1,
+        "d1_stroke": 2,
+        "d2a_match4": 0,
+        "d2a_match5": 0,
+        "d2a_match6": 0,
+        "d2b_match7": 2,
+        "d2b_match8": 2,
+        "d2b_match9": 2,
+        "d3_match10": 1,
+        "d3_match11": 2,
+        "d3_match12": 2,
+        "d3_stroke": 0,
+        "scramble": 0
+      },
+      "John": {
+        "d1_match1": 1,
+        "d1_match2": 2,
+        "d1_match3": 2,
+        "d1_stroke": 2,
+        "d2a_match4": 2,
+        "d2a_match5": 1,
+        "d2a_match6": 2,
+        "d2b_match7": 2,
+        "d2b_match8": 0,
+        "d2b_match9": 0,
+        "d3_match10": 2,
+        "d3_match11": 2,
+        "d3_match12": 2,
+        "d3_stroke": 2,
+        "scramble": 1
+      },
+      "Brian P": {
+        "d1_match1": 0,
+        "d1_match2": 2,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 2,
+        "d2a_match5": 2,
+        "d2a_match6": 2,
+        "d2b_match7": 0,
+        "d2b_match8": 2,
+        "d2b_match9": 2,
+        "d3_match10": 0,
+        "d3_match11": 2,
+        "d3_match12": 2,
+        "d3_stroke": 2,
+        "scramble": 3
+      },
+      "Pat": {
+        "d1_match1": 2,
+        "d1_match2": 0,
+        "d1_match3": 1,
+        "d1_stroke": 2,
+        "d2a_match4": 2,
+        "d2a_match5": 0,
+        "d2a_match6": 1,
+        "d2b_match7": 2,
+        "d2b_match8": 0,
+        "d2b_match9": 2,
+        "d3_match10": 0,
+        "d3_match11": 0,
+        "d3_match12": 1,
+        "d3_stroke": 2,
+        "scramble": 2
+      },
+      "Rick": {
+        "d1_match1": 0,
+        "d1_match2": 2,
+        "d1_match3": 2,
+        "d1_stroke": 2,
+        "d2a_match4": 2,
+        "d2a_match5": 1,
+        "d2a_match6": 0,
+        "d2b_match7": 0,
+        "d2b_match8": 2,
+        "d2b_match9": 1,
+        "d3_match10": 2,
+        "d3_match11": 2,
+        "d3_match12": 0,
+        "d3_stroke": 2,
+        "scramble": 3
+      },
+      "Keith": {
+        "d1_match1": 2,
+        "d1_match2": 2,
+        "d1_match3": 2,
+        "d1_stroke": 2,
+        "d2a_match4": 0,
+        "d2a_match5": 0,
+        "d2a_match6": 0,
+        "d2b_match7": 2,
+        "d2b_match8": 0,
+        "d2b_match9": 0,
+        "d3_match10": 2,
+        "d3_match11": 0,
+        "d3_match12": 0,
+        "d3_stroke": 2,
+        "scramble": 2
+      },
+      "Tony W": {
+        "d1_match1": 0,
+        "d1_match2": 0,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 1,
+        "d2a_match5": 0,
+        "d2a_match6": 0,
+        "d2b_match7": 0,
+        "d2b_match8": 2,
+        "d2b_match9": 0,
+        "d3_match10": 0,
+        "d3_match11": 0,
+        "d3_match12": 0,
+        "d3_stroke": 0,
+        "scramble": 0
+      },
+      "Manny": {
+        "d1_match1": 2,
+        "d1_match2": 0,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 2,
+        "d2a_match5": 0,
+        "d2a_match6": 1,
+        "d2b_match7": 2,
+        "d2b_match8": 0,
+        "d2b_match9": 0,
+        "d3_match10": 0,
+        "d3_match11": 0,
+        "d3_match12": 0,
+        "d3_stroke": 0,
+        "scramble": 1
+      },
+      "Tommy": {
+        "d1_match1": 2,
+        "d1_match2": 2,
+        "d1_match3": 2,
+        "d1_stroke": 2,
+        "d2a_match4": 2,
+        "d2a_match5": 1,
+        "d2a_match6": 2,
+        "d2b_match7": 2,
+        "d2b_match8": 2,
+        "d2b_match9": 2,
+        "d3_match10": 2,
+        "d3_match11": 0,
+        "d3_match12": 2,
+        "d3_stroke": 2,
+        "scramble": 1
+      },
+      "Dave": {
+        "d1_match1": 0,
+        "d1_match2": 2,
+        "d1_match3": 2,
+        "d1_stroke": 2,
+        "d2a_match4": 2,
+        "d2a_match5": 1,
+        "d2a_match6": 2,
+        "d2b_match7": 0,
+        "d2b_match8": 2,
+        "d2b_match9": 0,
+        "d3_match10": 0,
+        "d3_match11": 0,
+        "d3_match12": 1,
+        "d3_stroke": 0,
+        "scramble": 0
+      },
+      "Hunter": {
+        "d1_match1": 2,
+        "d1_match2": 0,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 0,
+        "d2a_match5": 2,
+        "d2a_match6": 2,
+        "d2b_match7": 2,
+        "d2b_match8": 2,
+        "d2b_match9": 1,
+        "d3_match10": 1,
+        "d3_match11": 2,
+        "d3_match12": 2,
+        "d3_stroke": 2,
+        "scramble": 2
+      },
+      "Gerald C": {
+        "d1_match1": 0,
+        "d1_match2": 0,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 0,
+        "d2a_match5": 2,
+        "d2a_match6": 0,
+        "d2b_match7": 0,
+        "d2b_match8": 0,
+        "d2b_match9": 0,
+        "d3_match10": 0,
+        "d3_match11": 2,
+        "d3_match12": 2,
+        "d3_stroke": 0,
+        "scramble": 3
+      },
+      "Bob": {
+        "d1_match1": 2,
+        "d1_match2": 2,
+        "d1_match3": 2,
+        "d1_stroke": 0,
+        "d2a_match4": 0,
+        "d2a_match5": 2,
+        "d2a_match6": 2,
+        "d2b_match7": 2,
+        "d2b_match8": 0,
+        "d2b_match9": 2,
+        "d3_match10": 2,
+        "d3_match11": 0,
+        "d3_match12": 0,
+        "d3_stroke": 0,
+        "scramble": 2
+      },
+      "Patrick": {
+        "d1_match1": 0,
+        "d1_match2": 0,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 0,
+        "d2a_match5": 2,
+        "d2a_match6": 0,
+        "d2b_match7": 0,
+        "d2b_match8": 0,
+        "d2b_match9": 0,
+        "d3_match10": 2,
+        "d3_match11": 0,
+        "d3_match12": 0,
+        "d3_stroke": 0,
+        "scramble": 3
+      },
+      "Brian S": {
+        "d1_match1": 2,
+        "d1_match2": 0,
+        "d1_match3": 2,
+        "d1_stroke": 2,
+        "d2a_match4": 1,
+        "d2a_match5": 0,
+        "d2a_match6": 0,
+        "d2b_match7": 0,
+        "d2b_match8": 2,
+        "d2b_match9": 2,
+        "d3_match10": 2,
+        "d3_match11": 2,
+        "d3_match12": 2,
+        "d3_stroke": 0,
+        "scramble": 1
+      },
+      "Chris": {
+        "d1_match1": 0,
+        "d1_match2": 2,
+        "d1_match3": 0,
+        "d1_stroke": 0,
+        "d2a_match4": 0,
+        "d2a_match5": 2,
+        "d2a_match6": 2,
+        "d2b_match7": 0,
+        "d2b_match8": 0,
+        "d2b_match9": 2,
+        "d3_match10": 0,
+        "d3_match11": 2,
+        "d3_match12": 0,
+        "d3_stroke": 2,
+        "scramble": 0
+      }
+    },
+    "resultsByPlayer": {
+      "Mil": {
+        "total_points": 15,
+        "rank": 11,
+        "finish": null,
+        "payout": null
+      },
+      "John": {
+        "total_points": 35,
+        "rank": 1,
+        "finish": "Winner",
+        "payout": 720
+      },
+      "Brian P": {
+        "total_points": 29.5,
+        "rank": 3,
+        "finish": "3rd Place",
+        "payout": 170
+      },
+      "Pat": {
+        "total_points": 23.625,
+        "rank": 6,
+        "finish": null,
+        "payout": 40
+      },
+      "Rick": {
+        "total_points": 25,
+        "rank": 5,
+        "finish": null,
+        "payout": 20
+      },
+      "Keith": {
+        "total_points": 16,
+        "rank": 10,
+        "finish": null,
+        "payout": 20
+      },
+      "Tony W": {
+        "total_points": 3,
+        "rank": 16,
+        "finish": null,
+        "payout": null
+      },
+      "Manny": {
+        "total_points": 11,
+        "rank": 13,
+        "finish": null,
+        "payout": 20
+      },
+      "Tommy": {
+        "total_points": 32.625,
+        "rank": 2,
+        "finish": "2nd Place",
+        "payout": 410
+      },
+      "Dave": {
+        "total_points": 19,
+        "rank": 8,
+        "finish": null,
+        "payout": 20
+      },
+      "Hunter": {
+        "total_points": 20,
+        "rank": 7,
+        "finish": null,
+        "payout": 20
+      },
+      "Gerald C": {
+        "total_points": 9,
+        "rank": 14,
+        "finish": null,
+        "payout": 20
+      },
+      "Bob": {
+        "total_points": 28,
+        "rank": 4,
+        "finish": "4th Place",
+        "payout": 60
+      },
+      "Patrick": {
+        "total_points": 7,
+        "rank": 15,
+        "finish": null,
+        "payout": null
+      },
+      "Brian S": {
+        "total_points": 18,
+        "rank": 9,
+        "finish": null,
+        "payout": 20
+      },
+      "Chris": {
+        "total_points": 12,
+        "rank": 12,
+        "finish": null,
+        "payout": 60
+      }
+    },
+    "cashByPlayer": {
+      "Mil": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 0
+      },
+      "John": {
+        "finishWinnings": 700,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 20,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 1,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 720
+      },
+      "Brian P": {
+        "finishWinnings": 150,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 20
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 1
+        },
+        "totalCash": 170
+      },
+      "Pat": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 40,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 2,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 40
+      },
+      "Rick": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 20,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 1,
+          "Secret Snowman": 0
+        },
+        "totalCash": 20
+      },
+      "Keith": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 20,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 1,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 20
+      },
+      "Tony W": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 0
+      },
+      "Manny": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 20
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 1
+        },
+        "totalCash": 20
+      },
+      "Tommy": {
+        "finishWinnings": 350,
+        "sideContestDollars": {
+          "Long Drive": 40,
+          "Closest to Pin": 20,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 2,
+          "Closest to Pin": 1,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 410
+      },
+      "Dave": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 20,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 1,
+          "Secret Snowman": 0
+        },
+        "totalCash": 20
+      },
+      "Hunter": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 20,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 1,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 20
+      },
+      "Gerald C": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 20
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 1
+        },
+        "totalCash": 20
+      },
+      "Bob": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 20,
+          "Long Putt": 40,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 1,
+          "Long Putt": 2,
+          "Secret Snowman": 0
+        },
+        "totalCash": 60
+      },
+      "Patrick": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 0
+        },
+        "totalCash": 0
+      },
+      "Brian S": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 20
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 0,
+          "Long Putt": 0,
+          "Secret Snowman": 1
+        },
+        "totalCash": 20
+      },
+      "Chris": {
+        "finishWinnings": 0,
+        "sideContestDollars": {
+          "Long Drive": 0,
+          "Closest to Pin": 40,
+          "Long Putt": 0,
+          "Secret Snowman": 20
+        },
+        "sideContestCounts": {
+          "Long Drive": 0,
+          "Closest to Pin": 2,
+          "Long Putt": 0,
+          "Secret Snowman": 1
+        },
+        "totalCash": 60
+      }
+    }
+  }
+}

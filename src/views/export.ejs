@@ -1,0 +1,8 @@
+<%- include("partials/header", { title: "Export" }) %>
+
+<h1>Export <%= tournament.name %></h1>
+<p><a href="/t/<%= tournament.id %>/dashboard">Dashboard</a></p>
+
+<textarea style="width:100%;height:400px"><%= json %></textarea>
+
+<%- include("partials/footer") %>

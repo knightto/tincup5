@@ -1,0 +1,59 @@
+<%- include("partials/header", { title: "Scramble" }) %>
+
+<h1><%= day.name %> Scramble</h1>
+<p><a href="/t/<%= tournament.id %>/setup">Setup</a> | <a href="/t/<%= tournament.id %>/dashboard">Dashboard</a></p>
+
+<div class="card">
+  <h2>Teams</h2>
+  <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/scramble/teams">
+    <input name="teamName" placeholder="Team name" />
+    <button type="submit">Add Team</button>
+  </form>
+
+  <table>
+    <thead>
+      <tr><th>Team</th><th>Players</th></tr>
+    </thead>
+    <tbody>
+      <% day.scrambleTeams.forEach((team) => { %>
+        <tr>
+          <td><%= team.name %></td>
+          <td>
+            <%= team.players.map((p) => players.find((pl) => pl.id === p.playerId)?.name).join(", ") %>
+          </td>
+        </tr>
+      <% }) %>
+    </tbody>
+  </table>
+</div>
+
+<div class="card">
+  <h2>Assign Player</h2>
+  <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/scramble/assign">
+    <select name="teamId">
+      <% day.scrambleTeams.forEach((team) => { %>
+        <option value="<%= team.id %>"><%= team.name %></option>
+      <% }) %>
+    </select>
+    <select name="playerId">
+      <% players.forEach((player) => { %>
+        <option value="<%= player.id %>"><%= player.name %></option>
+      <% }) %>
+    </select>
+    <button type="submit">Assign</button>
+  </form>
+</div>
+
+<div class="card">
+  <h2>Scores</h2>
+  <% day.scrambleTeams.forEach((team) => { %>
+    <form method="post" action="/t/<%= tournament.id %>/day/<%= day.id %>/scramble/score">
+      <input type="hidden" name="teamId" value="<%= team.id %>" />
+      <strong><%= team.name %></strong>
+      <input name="total" type="number" value="<%= day.scrambleScores.find((s) => s.teamId === team.id)?.total ?? '' %>" />
+      <button type="submit">Save</button>
+    </form>
+  <% }) %>
+</div>
+
+<%- include("partials/footer") %>
