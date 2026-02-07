@@ -8,7 +8,8 @@
     "build": "tsc",
     "start": "node dist/server.js",
     "test": "vitest",
-    "prisma:migrate": "prisma db execute --file prisma/migrations/000_init/migration.sql",
+    "prisma:migrate": "prisma migrate deploy",
+    "prisma:generate": "prisma generate",
     "prisma:studio": "prisma studio",
     "seed": "tsx src/seed/seed.ts",
     "verify:seed": "tsx src/verify/verify-seed.ts"
